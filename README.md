@@ -1,4 +1,6 @@
 <div align="center">
+  <h1>MR LRGEND</h1>
+  <h1>TRAVA TIGER</h1>
   <h1>Ismail Mughal</h1>
   
   <p>
