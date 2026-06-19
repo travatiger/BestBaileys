@@ -1,7 +1,7 @@
 <div align="center">
   <h1>MR LRGEND</h1>
   <h1>TRAVA TIGER</h1>
-  <h1>Ismail Mughal</h1>
+  <h1>ISMAIL MUGHAL</h1>
   
   <p>
     <strong>Join the channels & stay updated</strong><br>
