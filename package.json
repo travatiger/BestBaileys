@@ -1,7 +1,7 @@
 {
-    "name": "dgxeon-soket",
+    "name": "megateam",
     "version": "7.0.4",
-    "description": "Customised baileys by @dgxeon13",
+    "description": "Customised baileys by @im_mr_legend",
     "keywords": [
         "whatsapp",
         "xbugbot",
@@ -10,10 +10,10 @@
         "whatsapp-chat",
         "whatsapp-group",
         "botwa",
-        "xeonbugbot"
+        "travatigerbot"
     ],
     "license": "MIT",
-    "author": "dgxeon13",
+    "author": "@im_mr_legend",
     "type": "commonjs",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
