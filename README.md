@@ -10,7 +10,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://www.youtube.com/@TRAVA-TIGER" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-@dgxeon-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=330000" alt="YouTube">
+      <img src="https://img.shields.io/badge/YouTube-@TRAVA TIGER-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=330000" alt="YouTube">
     </a>
     </a>
   </p>
