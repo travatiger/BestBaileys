@@ -1,19 +1,19 @@
 {
     "name": "dgxeon-soket",
     "version": "7.0.4",
-    "description": "Customised baileys by @dgxeon13",
+    "description": "Customised baileys by @travatiger",
     "keywords": [
         "whatsapp",
-        "xbugbot",
+        "bugbot",
         "baileys",
         "whatsapp-web",
         "whatsapp-chat",
         "whatsapp-group",
         "botwa",
-        "xeonbugbot"
+        "legendbugbot"
     ],
     "license": "MIT",
-    "author": "dgxeon13",
+    "author": "travatiger",
     "type": "commonjs",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
@@ -52,7 +52,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "npm:@dgxeon13/libsignal-node@1.0.0",
+        "libsignal": "npm:libsignal-node-travatiger@1.0.1",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
